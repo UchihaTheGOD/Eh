@@ -1,0 +1,26 @@
+AIM : Linux Network Analysis 
+Step 1: Execute the ifconfig command to retrieve network interface information.
+Step 2: Use the ping command to test network connectivity and analyze the output
+Step 3: Analyze the netstat command output to view active network connections.
+Step 4: Perform a traceroute to trace the route packets take to reach a target host.
+        Type traceroute command and type www.google.com press “Enter”
+
+
+b) ARP Poisoning:
+1. Use ARP poisoning techniques to redirect network traffic on a Windows system.
+2. Analyze the effects of ARP poisoning on network communication and security
+
+Step 2 : Select sniffer on the top
+Step 3 : Next to folder icon click on icon name start/stop sniffer. Select device and click on ok
+Step 4 : Click on “+” icon on the top. Click on ok
+Step 5 : Shows the Connected host
+Step 6 : Select Arp at bottom
+Step 7 : Click on “+” icon at the top.
+Step 8 : Click on start/stop ARP icon on top
+Step 9 : Poisoning the source
+Step 10 : Go to any website on source ip address
+Step 11 : Go to password optio
+
+
+
+
